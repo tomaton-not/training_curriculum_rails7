@@ -47,6 +47,7 @@ class CalendarsController < ApplicationController
         wday: wdays[wday_num]
       }
 
+
       @week_days.push(days)
 
       
